@@ -1,7 +1,2 @@
----
-layout: editorial
----
-
 # GitBookTest
-
 Nothing
